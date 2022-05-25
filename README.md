@@ -1,10 +1,9 @@
+# HI
 # Intro-to-CSs
-#المبرمج:
-##الحسين ابراهيم حسين المزيقر
-#ادرس في اكادميه الرواد
+# Programmer:
+# Hussein Ibrahim Hussein Al-Muzeger
+# Study at the Pioneer Academy
 
-هذاالمشروع الاول باشراف الاستاذه :ميمونه
+This is the first project under the supervision of professor Memonah
 
-
-
-بتاريخ :2022-05-24
+Dated: 2022-05-24
